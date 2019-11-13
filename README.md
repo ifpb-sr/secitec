@@ -24,4 +24,7 @@ MAis intruções em breve.
 
 # Edições anteriores
 
+## 2018
+- [Promoção do evento](https://www.ifpb.edu.br/santarita/noticias/2018/10/campus-santa-rita-promovera-a-semana-de-eventos-integrados-em-educacao-ciencia-e-tecnologia)
+- [Programação de 2018](https://docs.google.com/document/d/1kkwa1K7gvro6O7K-zrNmpcoRyHcslVMgiP-dY68DsKE/edit?usp=sharing)
 - [Certificados de 2018](https://github.com/ifpb-sr/certificados-secitec-2018)
