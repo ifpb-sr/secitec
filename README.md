@@ -16,7 +16,7 @@ Nós temos três tipos de atrações:
 2. Mostra de tecnologia (**Quarta** - 27/11)
 3. Culturais (**Sábado** - 30/11 )
 
-MAis intruções em breve.
+Mais instruções em breve.
 
 ## Seleção dos monitores
 
