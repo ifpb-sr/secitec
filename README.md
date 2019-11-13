@@ -12,8 +12,8 @@
 
 Nós temos três tipos de atrações:
 
-1. Temáticas (**Terça** - 28/11)
-2. Mostra de tecnologia (**Quarta** - 29/11)
+1. Temáticas (**Terça** - 26/11)
+2. Mostra de tecnologia (**Quarta** - 27/11)
 3. Culturais (**Sábado** - 30/11 )
 
 MAis intruções em breve.
