@@ -22,12 +22,11 @@ Mais instruções em breve.
 
 **Em breve**
 
-<!--
 # Organização do evento (Intranet)
 
-- [Organização](https://docs.google.com/document/d/1dUN4sJiajTDsrTk3LZwdb_m08xcbgtVmeXTH_UyTfN0/edit?usp=sharing)
+- [Organização](https://docs.google.com/document/d/1CTPgXSE9JukwXpZZWP4MGGw5liFC-k2br1UNgN-XuEE/edit?usp=sharing) (usar e-mail do @ifpb.edu.br para acessar)
 
--->
+
 
 # Edições anteriores
 
