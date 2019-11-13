@@ -10,10 +10,13 @@ Data: **28, 29 e 30 de Novembro**
 
 ### Convidando pessoas para realizarem atividade na SECITEC
 
-Sugesto de convite:
+Nós temos três tipos de atrações:
 
-> **NOTE**: Estamos buscando por atrações. Utilizem o seguinte texto para convidar pessoas para 
-> Algo mais?
+1. Temáticas (**Quinta** - 28/11)
+2. Mostra de tecnologia (**Sexta** - 29/11)
+3. Culturais (**Sábado** - 30/11 )
+
+MAis intruções em breve.
 
 ## Seleção dos monitores
 
