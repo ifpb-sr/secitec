@@ -1,7 +1,7 @@
-# SECITEC - Bioeconomia: Diversidade e Riqueza para Desenvolvimento Sustentável
 
-Data: **28, 29 e 30 de Novembro**
 
+**Data**: **28, 29 e 30 de Novembro**
+**TEMA:** Bioeconomia: Diversidade e Riqueza para Desenvolvimento Sustentável
 
 
 ## Programação
