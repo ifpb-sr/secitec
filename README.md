@@ -22,6 +22,13 @@ MAis intruções em breve.
 
 **Em breve**
 
+<!--
+# Organização do evento (Intranet)
+
+- [Organização](https://docs.google.com/document/d/1dUN4sJiajTDsrTk3LZwdb_m08xcbgtVmeXTH_UyTfN0/edit?usp=sharing)
+
+-->
+
 # Edições anteriores
 
 ## 2018
