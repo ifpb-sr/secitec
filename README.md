@@ -1,6 +1,6 @@
 
 
-**Data**: **28, 29 e 30 de Novembro**
+**Data**: **26, 27 e 30 de Novembro**
 **TEMA:** Bioeconomia: Diversidade e Riqueza para Desenvolvimento Sustentável
 
 
@@ -12,8 +12,8 @@
 
 Nós temos três tipos de atrações:
 
-1. Temáticas (**Quinta** - 28/11)
-2. Mostra de tecnologia (**Sexta** - 29/11)
+1. Temáticas (**Terça** - 28/11)
+2. Mostra de tecnologia (**Quarta** - 29/11)
 3. Culturais (**Sábado** - 30/11 )
 
 MAis intruções em breve.
