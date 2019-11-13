@@ -16,7 +16,7 @@ Nós temos três tipos de atrações:
 2. Mostra de tecnologia (**Quarta** - 27/11)
 3. Culturais (**Sábado** - 30/11 )
 
-Mais instruções em breve.
+Realizem o convite e entrem em contato com [Marcela](marcela.freitas@ifpb.edu.br) por e-mail ou Whatsapp para consolidar programação do evento.
 
 ## Seleção dos monitores
 
