@@ -24,10 +24,12 @@ Realizem o convite e entrem em contato com [Marcela](marcela.freitas@ifpb.edu.br
 
 - Priorizar quem não terá oportunidade de ser novamente (critério: ano de ingresso)
 - Priorizar quem teve experiência na dinâmica de organização de eventos (critério: ter trabalhado no primeiro sábado letivo)
-- Premiar a assiduidade (critério: número de faltas do segundo bimestre)
+- Premiar a assiduidade (critério: assiduidade no segundo bimestre)
 - Desempate (Critério: menor dois últimos número da matrícula)
 
-**Inscrição em breve**
+**A inscrição será através do representante de turma até o dia 18/11**.
+
+Segue a planilha com a pontuação de todos:
 
 
 <!--
