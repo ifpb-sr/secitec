@@ -20,7 +20,15 @@ Realizem o convite e entrem em contato com [Marcela](marcela.freitas@ifpb.edu.br
 
 ## Seleção dos monitores
 
-**Em breve**
+**Critério para seleção dos monitores:**
+
+- Priorizar quem não terá oportunidade de ser novamente (critério: ano de ingresso)
+- Priorizar quem teve experiência na dinâmica de organização de eventos (critério: ter trabalhado no primeiro sábado letivo)
+- Premiar a assiduidade (critério: número de faltas do segundo bimestre)
+- Desempate (Critério: menor dois últimos número da matrícula)
+
+**Inscrição em breve**
+
 
 # Organização do evento (Intranet)
 
