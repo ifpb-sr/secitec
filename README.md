@@ -1,6 +1,5 @@
-
-
 **Data**: **26, 27 e 30 de Novembro**
+
 **TEMA:** Bioeconomia: Diversidade e Riqueza para Desenvolvimento Sustentável
 
 
@@ -20,17 +19,19 @@ Realizem o convite e entrem em contato com [Marcela](marcela.freitas@ifpb.edu.br
 
 ## Seleção dos monitores
 
-**Critério para seleção dos monitores:**
+### Critério para seleção dos monitores:
 
 - Priorizar quem não terá oportunidade de ser novamente (critério: ano de ingresso)
 - Priorizar quem teve experiência na dinâmica de organização de eventos (critério: ter trabalhado no primeiro sábado letivo)
 - Premiar a assiduidade (critério: assiduidade no segundo bimestre)
 - Desempate (Critério: menor dois últimos número da matrícula)
 
-**A inscrição será através do representante de turma até o dia 18/11**.
+### Planilhas com pontuação
 
-Segue a planilha com a pontuação de todos:
+- [Planilha com classificação dos alunos (PDF)](https://github.com/ifpb-sr/secitec/raw/master/monitores-criterios-selecao-classificacao.pdf)
+- [Planilha com os critérios de seleção implementados (ODS)](https://github.com/ifpb-sr/secitec/raw/master/monitores-criterios-selecao.ods)
 
+As inscrições para monitores da SECITEC serão realizadas através de cada Representante de Turma até **19 de Novembro**.
 
 <!--
 # Organização do evento (Intranet)
