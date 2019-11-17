@@ -1,0 +1,125 @@
+/*ul li {
+    transition: 0.5s;
+}*/
+.no-decimal {
+    list-style: none;
+    margin: 0 20px;
+}
+
+.item-desordenado{
+    list-style: disc !important;
+}
+.item-ordenado{
+    list-style: decimal !important;
+}
+#fundo-externo {
+    /*overflow: hidden; /* para que não tenha rolagem se a imagem de fundo for maior que a tela */
+    width: 100%;
+    height: auto%;
+    /*position: relative; /* criamos um contexto para posicionamento */
+}
+#fase1 {
+    width: 100%;
+    height: auto;
+    border:4px solid #392e20;
+    /*border-color: #;*/
+}
+#github {
+    transition: 0.5s;
+    -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
+}
+#github:hover {
+    transition: 0.5s;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+.centralizar {
+    width: 100%;
+    height: auto%;
+    align-items: center;
+}
+/*hr {
+    background-color: #eaecef !important;
+}*/
+/*Media querys*/
+@media (max-width: 767.98px) {
+    #embreve{
+        margin-top: 115px;
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    #container{
+        /*position: fixed; /* posição fixa para que a possível rolagem da tela não revele espaços em branco */
+        width: 100% !important;
+        height: auto !important;
+
+        margin-top: 120px !important;
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+}
+@media (min-width: 768px) {
+    #embreve{
+        position: absolute;
+
+
+        margin-top: 70px;
+        padding-right: 0;
+        padding-left: 0;
+    }
+    #container{
+        /*position: fixed; /* posição fixa para que a possível rolagem da tela não revele espaços em branco */
+        width: 100% !important;
+        height: auto !important;
+
+        margin-top: 70px !important;
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+    ul li {
+        list-style: none;
+        margin: 0 20px;
+        transition: 0.5s;
+    }
+    ul li a {
+        display: block;
+        position: relative;
+        text-decoration: none;
+        padding: 5px;
+        font-size: 14px;
+        font-family: sans-serif;
+        color: #fff;
+        text-transform: uppercase;
+        transition: 0.5s;
+    }
+    ul:hover li a {
+        transform: scale(1.5);
+        opacity: .2;
+        filter: blur(5px);
+    }
+    ul li a:hover {
+        transform: scale(2);
+        opacity: 1;
+        filter: blur(0);
+    }
+    ul li a:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: #cf3034ff;
+        transition: transform  0.5s;
+        transform-origin: right;
+        transform: scaleX(0);
+        z-index: -1;
+    }
+    ul li a:hover:before {
+        transition: transform 0.5s;
+        transform-origin: left;
+        transform: scaleX(1);
+    }
+}
