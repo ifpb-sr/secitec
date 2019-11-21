@@ -10,7 +10,7 @@
 
 - [Resultado da seleção de monitores (SECITEC e Sábado letivo)](https://github.com/ifpb-sr/secitec/raw/master/monitores-resultado-selecao.pdf)
 
-**NOTA**: Foram chamados os 40 primeiros colocados para serem monitores na SECITEC com baixo nos critérios abaixo. Além disso, foram chamados todos os alunos que se inscreveram para serem monitores no sábado cultural. Em caso de dúvidas, consulte a planilha com pontuação abaixo.
+**NOTA**: Foram chamados os 40 primeiros colocados para serem monitores na SECITEC com base nos critérios abaixo. Além disso, foram chamados todos os alunos inscritos para monitor no sábado cultural (inscrição por e-mail). Em caso de dúvidas, consulte a planilha com pontuação abaixo.
 
 ### Critério para seleção dos monitores:
 
