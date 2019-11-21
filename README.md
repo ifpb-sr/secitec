@@ -8,7 +8,7 @@
 
 ## Seleção dos monitores
 
-- [Resultado da seleção de monitores (SECITEC e Sábado letivo)](https://github.com/ifpb-sr/secitec/r/monitores-resultado-selecao.pdf)
+- [Resultado da seleção de monitores (SECITEC e Sábado letivo)](https://github.com/ifpb-sr/secitec/raw/master/monitores-resultado-selecao.pdf)
 
 ### Critério para seleção dos monitores:
 
