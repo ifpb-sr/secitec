@@ -6,9 +6,13 @@
 
 - [Planilha com programação do evento](https://docs.google.com/spreadsheets/d/1xw9is8trktRCHcqCkCF8v_BJg2EBMCdw8VgluAGv8E8/edit?usp=sharing)
 
-## Prazos
+## Submissão de trabalhos
 
 - [Submissão de resumos](https://docs.google.com/forms/d/e/1FAIpQLSftQFVCs81t_jwoQEw_tNNG9ezi_4wgrh5yLB0VcxW1mDzPqQ/viewform?usp=sf_link) até **25/11 - Segunda-feira**
+
+## Inscrição em palestras e oficinas
+
+**As inscrições serão abertas sexta-feira**
 
 ## Seleção dos monitores
 
