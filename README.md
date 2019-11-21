@@ -1,3 +1,5 @@
+![Logo](https://github.com/ifpb-sr/secitec/raw/master/logo/logo200x200.png)
+
 **Data**: **26, 27 e 30 de Novembro**
 
 **TEMA:** Bioeconomia: Diversidade e Riqueza para Desenvolvimento Sustentável
