@@ -1,6 +1,6 @@
 # Organização do evento
 
-- Coisas aqui.
+- [Contato e Informações extras](https://docs.google.com/spreadsheets/d/1cqP6RI8z9ew1D3pYA50NLrbJOKum2mQRHG8LpNzo-CE/edit?usp=sharing)
 
 # Monitores
 
