@@ -2,22 +2,14 @@
 
 **TEMA:** Bioeconomia: Diversidade e Riqueza para Desenvolvimento Sustentável
 
-
 ## Programação
 
-- [Planilha com programação do evento](https://docs.google.com/spreadsheets/d/1xw9is8trktRCHcqCkCF8v_BJg2EBMCdw8VgluAGv8E8/edit?usp=sharing)
-
-### Convidando pessoas para realizarem atividade na SECITEC
-
-Nós temos três tipos de atrações:
-
-1. Temáticas (**Terça** - 26/11)
-2. Mostra de tecnologia (**Quarta** - 27/11)
-3. Culturais (**Sábado** - 30/11 )
-
-Realizem o convite e entrem em contato com [Marcela](marcela.freitas@ifpb.edu.br) por e-mail ou Whatsapp para consolidar programação do evento.
+- [Planilha com progra/mação do evento](https://docs.google.com/spreadsheets/d/1xw9is8trktRCHcqCkCF8v_BJg2EBMCdw8VgluAGv8E8/edit?usp=sharing)
 
 ## Seleção dos monitores
+
+- [Relsultado da seleção de monitores](https://github.com/ifpb-sr/secitec/r/monitores-resultado-selecao.pdf)
+- [Monitores selecionados para SECITEC](https://github.com/ifpb-sr/secitec/raw/master/monitores-selecionados.csv)
 
 ### Critério para seleção dos monitores:
 
@@ -28,10 +20,10 @@ Realizem o convite e entrem em contato com [Marcela](marcela.freitas@ifpb.edu.br
 
 ### Planilhas com pontuação
 
+
 - [Planilha com classificação dos alunos (PDF)](https://github.com/ifpb-sr/secitec/raw/master/monitores-criterios-selecao-classificacao.pdf)
 - [Planilha com os critérios de seleção implementados (ODS)](https://github.com/ifpb-sr/secitec/raw/master/monitores-criterios-selecao.ods)
 
-As inscrições para monitores da SECITEC serão realizadas através de cada Representante de Turma até **19 de Novembro**.
 
 <!--
 # Organização do evento (Intranet)
