@@ -1,4 +1,4 @@
-![Logo](https://github.com/ifpb-sr/secitec/raw/master/logo/logo200x200.png)
+![Logo](https://github.com/ifpb-sr/secitec/raw/master/arte/logo/logo200x200.png)
 
 **Data**: **26, 27 e 30 de Novembro**
 
