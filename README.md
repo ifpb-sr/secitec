@@ -7,12 +7,16 @@
 # Início
 
 - [Programação](https://docs.google.com/spreadsheets/d/1xw9is8trktRCHcqCkCF8v_BJg2EBMCdw8VgluAGv8E8/edit?usp=sharing)
+
+
+## Inscrição estão abertas
+
+- [Acesse o even3 para acessar programação e realizar as inscrições](https://www.even3.com.br/secitec2019ifpbsr/)
 - [Submissão de resumos](https://docs.google.com/forms/d/e/1FAIpQLSftQFVCs81t_jwoQEw_tNNG9ezi_4wgrh5yLB0VcxW1mDzPqQ/viewform?usp=sf_link) até **25/11 - Segunda-feira**
-- Submissão de trabalho para mostra tecnológica (?)
 
-## Inscrição em palestras e oficinas
 
-**As inscrições serão abertas sexta-feira às 14:00**
+
+- Submissão de trabalho para mostra tecnológica (em breve)
 
 ### Instruções para inscrições
 
