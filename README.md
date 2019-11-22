@@ -14,9 +14,9 @@
 
 **As inscrições serão abertas sexta-feira às 14:00**
 
-### Instuções
+### Instruções para inscrições
 
-![Logo](https://even3.blob.core.windows.net/pagina-evento/inscrioIFPB.0059f153e8384404a75f.gif)
+![Instruções](https://even3.blob.core.windows.net/pagina-evento/inscrioIFPB.0059f153e8384404a75f.gif)
 
 ## Seleção dos monitores
 
