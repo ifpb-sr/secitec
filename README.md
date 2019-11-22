@@ -14,6 +14,10 @@
 
 **As inscrições serão abertas sexta-feira às 14:00**
 
+### Instuções
+
+![Logo](https://even3.blob.core.windows.net/pagina-evento/inscrioIFPB.0059f153e8384404a75f.gif)
+
 ## Seleção dos monitores
 
 - [Resultado da seleção de monitores (SECITEC e Sábado letivo)](https://github.com/ifpb-sr/secitec/raw/master/monitores-resultado-selecao.pdf)
