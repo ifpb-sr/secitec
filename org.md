@@ -15,6 +15,5 @@
 
 - [Equipe dos monitores](https://github.com/ifpb-sr/secitec/raw/master/docs/monitores-secitec.txt)
 
-
-
+![Logo](https://github.com/ifpb-sr/secitec/raw/master/arte/monitores-secitec.jpg)
 
