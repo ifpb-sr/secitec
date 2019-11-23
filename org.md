@@ -8,6 +8,7 @@
 
 - [Programação](https://docs.google.com/spreadsheets/d/1xw9is8trktRCHcqCkCF8v_BJg2EBMCdw8VgluAGv8E8/edit?usp=sharing)
 - [Submissão de resumos](https://docs.google.com/forms/d/e/1FAIpQLSftQFVCs81t_jwoQEw_tNNG9ezi_4wgrh5yLB0VcxW1mDzPqQ/viewform?usp=sf_link)
+- [Inscrição de projeto na Mostra tecnológica](https://docs.google.com/forms/d/e/1FAIpQLSeJLlemI__28suXxrsGGvmDU6CAdblGh13x7Rk-UOxm01RKdw/viewform)
 
 # Sábado Cultural
 
