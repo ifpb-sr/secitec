@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3984406"
-     inkscape:cx="405.35827"
-     inkscape:cy="110.04295"
+     inkscape:zoom="0.4944234"
+     inkscape:cx="396.85039"
+     inkscape:cy="561.25984"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -129,7 +129,7 @@
              y="163.52419"
              x="86.430878"
              id="tspan865"
-             sodipodi:role="line">Monitor</tspan></text>
+             sodipodi:role="line">%VAR_Função1%</tspan></text>
       </g>
     </g>
     <g
@@ -243,7 +243,7 @@
              id="tspan929"
              x="86.430878"
              y="163.52419"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332">Monitor</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332">%VAR_Função2%</tspan></text>
       </g>
     </g>
     <g
@@ -279,7 +279,7 @@
              id="tspan943"
              x="86.430878"
              y="163.52419"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332">Monitor</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332">%VAR_Função3%</tspan></text>
       </g>
     </g>
     <g
@@ -315,7 +315,7 @@
              y="163.52419"
              x="86.430878"
              id="tspan957"
-             sodipodi:role="line">Monitor</tspan></text>
+             sodipodi:role="line">%VAR_Função4%</tspan></text>
       </g>
     </g>
     <g
@@ -351,7 +351,7 @@
              id="tspan971"
              x="86.430878"
              y="163.52419"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332">Monitor</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332">%VAR_Função5%</tspan></text>
       </g>
     </g>
     <g
@@ -387,7 +387,7 @@
              y="163.52419"
              x="86.430878"
              id="tspan985"
-             sodipodi:role="line">Monitor</tspan></text>
+             sodipodi:role="line">%VAR_Função6%</tspan></text>
       </g>
     </g>
     <g
@@ -423,7 +423,7 @@
              y="163.52419"
              x="86.430878"
              id="tspan999"
-             sodipodi:role="line">Monitor</tspan></text>
+             sodipodi:role="line">%VAR_Função7%</tspan></text>
       </g>
     </g>
     <g
@@ -459,7 +459,7 @@
              id="tspan1013"
              x="86.430878"
              y="163.52419"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332">Monitor</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332">%VAR_Função8%</tspan></text>
       </g>
     </g>
     <g
@@ -495,7 +495,7 @@
              id="tspan1027"
              x="86.430878"
              y="163.52419"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332">Monitor</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332">%VAR_Função9%</tspan></text>
       </g>
     </g>
     <g
@@ -531,7 +531,7 @@
              y="163.52419"
              x="86.430878"
              id="tspan1041"
-             sodipodi:role="line">Monitor</tspan></text>
+             sodipodi:role="line">%VAR_Função10%</tspan></text>
       </g>
     </g>
     <g
@@ -567,7 +567,7 @@
              y="163.52419"
              x="86.430878"
              id="tspan1055"
-             sodipodi:role="line">Monitor</tspan></text>
+             sodipodi:role="line">%VAR_Função11%</tspan></text>
       </g>
     </g>
     <g
@@ -603,7 +603,7 @@
              id="tspan1069"
              x="86.430878"
              y="163.52419"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332">Monitor</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332">%VAR_Função12%</tspan></text>
       </g>
     </g>
     <g
@@ -639,7 +639,7 @@
              y="163.52419"
              x="86.430878"
              id="tspan1083"
-             sodipodi:role="line">Monitor</tspan></text>
+             sodipodi:role="line">%VAR_Função13%</tspan></text>
       </g>
     </g>
     <g
@@ -675,7 +675,7 @@
              id="tspan1097"
              x="86.430878"
              y="163.52419"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332">Monitor</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332">%VAR_Função14%</tspan></text>
       </g>
     </g>
     <g
@@ -711,7 +711,7 @@
              id="tspan1111"
              x="86.430878"
              y="163.52419"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332">Monitor</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332">%VAR_Função15%</tspan></text>
       </g>
     </g>
     <g
@@ -747,7 +747,7 @@
              y="163.52419"
              x="86.430878"
              id="tspan1125"
-             sodipodi:role="line">Monitor</tspan></text>
+             sodipodi:role="line">%VAR_Função16%</tspan></text>
       </g>
     </g>
     <g
@@ -783,7 +783,7 @@
              y="163.52419"
              x="86.430878"
              id="tspan1139"
-             sodipodi:role="line">Monitor</tspan></text>
+             sodipodi:role="line">%VAR_Função17%</tspan></text>
       </g>
     </g>
     <g
@@ -819,7 +819,7 @@
              id="tspan1153"
              x="86.430878"
              y="163.52419"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332">Monitor</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332">%VAR_Função18%</tspan></text>
       </g>
     </g>
   </g>
