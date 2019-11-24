@@ -19,6 +19,12 @@
 
 ![Instruções](https://even3.blob.core.windows.net/pagina-evento/inscrioIFPB.0059f153e8384404a75f.gif)
 
+# Monitores
+
+## Relatório de participação do evento
+
+Modelo de relatório para participação de evento: [ODT](https://github.com/ifpb-sr/secitec/raw/master/docs/relatorio-monitor.odt), [PDF](https://github.com/ifpb-sr/secitec/raw/master/docs/relatorio-monitor.pdf)
+
 ## Seleção dos monitores
 
 - [Resultado da seleção de monitores (SECITEC e Sábado letivo)](https://github.com/ifpb-sr/secitec/raw/master/monitores-resultado-selecao.pdf)
