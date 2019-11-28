@@ -20,6 +20,8 @@
 # Monitores
 
 - [Equipe dos monitores](https://github.com/ifpb-sr/secitec/raw/master/docs/monitores-secitec.txt)
+- [Relatório dos Monitores (odt)](https://github.com/ifpb-sr/secitec/blob/master/docs/relatorio-monitor.odt)
+- [Relatório dos Monitores (pdf)](https://github.com/ifpb-sr/secitec/blob/master/docs/relatorio-monitor.pdf)
 
 ![Logo](https://github.com/ifpb-sr/secitec/raw/master/arte/monitores-secitec.jpg)
 
