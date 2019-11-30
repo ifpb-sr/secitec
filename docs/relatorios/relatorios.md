@@ -1,6 +1,4 @@
-# Relatórios do evento
-
-## Relatórios de monitores de Informática
+# Relatórios de monitores de Informática
 
 - [Alefe de Lima Moreira](./monitores/201714610013.pdf)
 - [Alefe Thierry da Paz Correia](./monitores/201714610031.pdf)
@@ -23,7 +21,7 @@
 - [Victor da Silva Vasconcelos](./monitores/201714610036.pdf)
 - [Walker Teotonio Correia de Barros](./monitores/201714610009.pdf)
 
-## Relatórios de monitores de Meio Ambiente
+# Relatórios de monitores de Meio Ambiente
 
 - [Adriana Paulino da Silva Santos](./monitores/201714600013.pdf)
 - [Aline Felix da Costa](./monitores/201714600027.pdf)
