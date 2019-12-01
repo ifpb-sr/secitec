@@ -4,10 +4,11 @@
 
 **TEMA:** Bioeconomia: Diversidade e Riqueza para Desenvolvimento Sustentável
 
-# Presença dos alunos
+# Pós-evento
 
 - Lista de presença na SECITEC (pendente)
 - [Lista de presença dos alunos no Sábado letivo](https://github.com/ifpb-sr/secitec/raw/master/docs/sabado-letivo-presenca.pdf)
+- [Relatórios dos monitores](https://ifpb-sr.github.io/secitec/docs/relatorios/relatorios) - compreenda como cresceram
 
 # Início
 
