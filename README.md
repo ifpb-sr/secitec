@@ -4,12 +4,17 @@
 
 **TEMA:** Bioeconomia: Diversidade e Riqueza para Desenvolvimento Sustentável
 
+# Presença dos alunos
+
+- Lista de presença na SECITEC (pendente)
+- [Lista de presença dos alunos no Sábado letivo](https://github.com/ifpb-sr/secitec/raw/master/docs/sabado-letivo-presenca.pdf)
+
 # Início
 
 - [Programação](https://docs.google.com/spreadsheets/d/1xw9is8trktRCHcqCkCF8v_BJg2EBMCdw8VgluAGv8E8/edit?usp=sharing)
 
 
-## Inscrição estão abertas
+## Inscrições
 
 - [Programação inscrições (even3)](https://www.even3.com.br/secitec2019ifpbsr/)
 - [Submissão de resumos](https://docs.google.com/forms/d/e/1FAIpQLSftQFVCs81t_jwoQEw_tNNG9ezi_4wgrh5yLB0VcxW1mDzPqQ/viewform?usp=sf_link) até **25/11 - Segunda-feira**
