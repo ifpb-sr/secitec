@@ -1,6 +1,6 @@
 # Pós-evento
 
-- [Avaliação do evento](https://docs.google.com/forms/d/e/1FAIpQLScDxL8MSVRmRNq6iZam2TbH8m4LliSlC3lG31_utwfNzrPgOw/viewform?usp=sf_link)
+- [Formulário de avaliação do evento](https://docs.google.com/forms/d/e/1FAIpQLScDxL8MSVRmRNq6iZam2TbH8m4LliSlC3lG31_utwfNzrPgOw/viewform?usp=sf_link)
 
 # Organização do evento
 
