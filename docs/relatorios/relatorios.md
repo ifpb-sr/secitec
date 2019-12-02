@@ -1,6 +1,6 @@
 # Relatórios de monitores de Informática
 
-- [Alefe de Lima Moreira](./monitores/201714610013.pdf)
+- [Alefe de Lima Moreira] [//]: <> (./monitores/201714610013.pdf)
 - [Alefe Thierry da Paz Correia](./monitores/201714610031.pdf)
 - [Augusto Miguel Faustino dos Santos](./monitores/201814610006.pdf)
 - [Emelly de Lima Silva de Araujo](./monitores/201614610014.pdf)
