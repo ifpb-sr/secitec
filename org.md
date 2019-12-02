@@ -1,6 +1,7 @@
 # Pós-evento
 
 - [Formulário de avaliação do evento](https://docs.google.com/forms/d/e/1FAIpQLScDxL8MSVRmRNq6iZam2TbH8m4LliSlC3lG31_utwfNzrPgOw/viewform?usp=sf_link)
+- [Relatórios dos monitores](https://ifpb-sr.github.io/secitec/docs/relatorios/relatorios)
 
 # Organização do evento
 
