@@ -1,11 +1,11 @@
 # Relatórios de monitores de Informática
 
-- Alefe de Lima Moreira  [//]: # (./monitores/201714610013.pdf)
+- Alefe de Lima Moreira<!--: [Relatório](./monitores/201714610013.pdf)-->
 - [Alefe Thierry da Paz Correia](./monitores/201714610031.pdf)
 - [Augusto Miguel Faustino dos Santos](./monitores/201814610006.pdf)
 - [Emelly de Lima Silva de Araujo](./monitores/201614610014.pdf)
 - [Gabriel Batista da Silva](./monitores/201914610013.pdf)
-- [Ismael Alves Lima](./monitores/201714610025.pdf)
+- Ismael Alves Lima: [Relatório](./monitores/201714610025.pdf)
 - [Jamilly Candido Bernardo](./monitores/201714610003.pdf)
 - [Jhullyene Ellen Paulino de Oliveira](./monitores/201714610006.pdf)
 - [Jose William Padilha de Lima da Silva](./monitores/201714610023.pdf)
