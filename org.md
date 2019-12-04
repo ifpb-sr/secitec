@@ -2,6 +2,9 @@
 
 - [Formulário de avaliação do evento](https://docs.google.com/forms/d/e/1FAIpQLScDxL8MSVRmRNq6iZam2TbH8m4LliSlC3lG31_utwfNzrPgOw/viewform?usp=sf_link)
 - [Relatórios dos monitores](https://ifpb-sr.github.io/secitec/docs/relatorios/relatorios)
+- [Lista de presença na SECITEC](https://github.com/ifpb-sr/certificados-secitec-2019/raw/master/docs/lista-presenca-secitec-2019.pdf)
+- [Lista de presença dos alunos no Sábado letivo](https://github.com/ifpb-sr/secitec/raw/master/docs/sabado-letivo-presenca.pdf)
+
 
 # Organização do evento
 
