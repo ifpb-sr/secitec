@@ -6,7 +6,7 @@
 
 # Pós-evento
 
-- Lista de presença na SECITEC (pendente)
+- [Lista de presença na SECITEC](https://github.com/ifpb-sr/certificados-secitec-2019/raw/master/docs/lista-presenca-secitec-2019.pdf)
 - [Lista de presença dos alunos no Sábado letivo](https://github.com/ifpb-sr/secitec/raw/master/docs/sabado-letivo-presenca.pdf)
 - [Relatórios dos monitores](https://ifpb-sr.github.io/secitec/docs/relatorios/relatorios) - compreenda como cresceram
 
